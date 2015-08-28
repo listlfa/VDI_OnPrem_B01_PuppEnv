@@ -1,3 +1,9 @@
+#BP Custom Ignores
+modules/powershell/
+modules/stdlib/
+modules/windows_ad/
+modules/windowsfeature/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
