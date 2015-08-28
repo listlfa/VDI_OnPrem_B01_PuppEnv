@@ -1,4 +1,5 @@
 VDI_OnPrem_B01_PuppEnv
+
 VDI Platform - On Premises - First for B - Full Puppet Environment
 
 ##Setup Steps
