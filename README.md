@@ -20,7 +20,7 @@ VDI Platform - On Premises - First for B - Full Puppet Environment
 
 ####Puppet Environment
 1. Clone this repo to `C:/ProgramData/PuppetLabs/code/environments/`
-  1. Per "Puppet Config"
+  1. As used in "Puppet Config"
 
 ####Puppet 3rd party Modules
 1. Install AD module (includes dependancies)
