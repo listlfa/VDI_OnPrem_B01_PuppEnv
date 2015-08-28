@@ -1,4 +1,4 @@
-#BP Custom Ignores
+#BP Custom Ignores -- 3rd party Puppet Modules 
 modules/powershell/
 modules/stdlib/
 modules/windows_ad/
